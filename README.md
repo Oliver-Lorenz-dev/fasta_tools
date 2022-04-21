@@ -26,3 +26,6 @@ A small toolkit I made to test out some new python libraries
 This program was made to take in a DNA sequence in the form of a FASTA file as input.
 
 This program only allows the use of one option at a time (TODO: allow multiple options at the same time)
+
+### Tests
+To run tests for this toolkit, run: `pytest` from the root directory of this repo.
