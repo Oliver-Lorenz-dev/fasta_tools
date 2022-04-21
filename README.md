@@ -2,10 +2,10 @@
 
 A small toolkit I made to test out some new python libraries
 
-###Usage
+### Usage
 `python fasta_tools.py <option>`
 
-###Options
+### Options
 ```--input <fasta_file> [required]```
 
 ```--gc Display GC content [optional]```
